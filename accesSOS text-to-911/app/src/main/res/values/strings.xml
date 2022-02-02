@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">accesSOS</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia3RncmVnZyIsImEiOiJja3V4bG1leW82djdtMzJuenhtcWl0OXFmIn0.x6wiPnwxAozOx9XRL-KeGg</string>
+    <string name="mapbox_style">mapbox://styles/accessos/ckh0y570y03k119s1sh8l4naw</string>
+    <string name="accessos_backend">https://accessos-map-backend.herokuapp.com/documents</string>
+
+    <string name="large_text">Large Text</string>
+    <string name="action_settings">Settings</string>
+    <!--Main Activity-->
+    <string name="welcome_subtitle">Welcome to accesSOS! By continuing, you agree to our <a href="https://www.notion.so/accessos/Terms-of-Use-Privacy-Policy-f56ed8fb819d4a22b20dc08c0b1358d7">Terms of Use and Privacy Policy</a></string>
+
+    <!--Map Activity-->
+    <string name="eligible_info">Text-To-911 is not available at this location\nVisit <a href="https://text911.info/">text911.info</a> or <a href="tel:1234567890">call 911</a> directly</string>
+
+    <!--Report Emergency Activity 1-->
+    <string name="contact_911">We contact 911 for you. Just enter a few details about your emergency. By continuing you agree to our <a href="https://www.google.com">Terms of Use and Privacy Policy</a></string>
+    <string name="report_button">Report Emergency</string>
+
+    <!--Report Emergency Activity 2-->
+    <string name="report_emergency_header">Where are you?</string>
+    <string name="report_emergency_subtitle">We can only send emergency services your way if we know where you are</string>
+    <string name="location_accept">Share Location</string>
+    <string name="location_deny">Do not share</string>
+
+    <string name="learn_how_to_use"><a href="https://accessos.io/">Learn how to use accesSOS</a></string>
+
+    <!--Emergency Details Activity-->
+    <string name="emergency_title">Emergency Details</string>
+    <string name="emergency_header">Which emergency service(s) do you require?</string>
+    <string name="emergency_subtitle">Select all that apply</string>
+    <string name="medical_title">Medical</string>
+    <string name="police_title">Police</string>
+    <string name="fire_title">Fire</string>
+    <string name="cont">Continue</string>
+
+    <!--Weapons Activity-->
+    <string name="weapons_title">Weapons</string>
+    <string name="weapons_header">Are there any weapons involved?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="not_sure">Not sure</string>
+
+    <!--Location Details Activity-->
+    <string name="location_title">Location</string>
+    <string name="location_header">Can you describe your location?</string>
+    <string name="indoors">Indoors</string>
+    <string name="outdoors">Outdoors</string>
+    <string name="moving">Moving</string>
+    <string name="cancel">Cancel</string>
+    <string name="skip">Skip</string>
+
+    <!--Indoors Details-->
+    <string name="indoor_location">Where are you indoors?</string>
+    <string name="indoor_description">A floor or apartment number can be used to locate you</string>
+    <string name="apt_option">Apartment / Room number</string>
+    <string name="floor_option">Floor number</string>
+
+    <!--Outdoor Details-->
+    <string name="details">Details</string>
+    <string name="outdoor_location">Some place hard to locate? A building, platform or station?</string>
+    <string name="outdoor_description">Try to be brief. We already have your location</string>
+
+    <!--Moving Details-->
+    <string name="moving_location">Are you on the move?</string>
+    <string name="moving_description">Are you in a car or using public transit?</string>
+    <string name="bus_or_train">Bus / Train number</string>
+    <string name="highway_exit_number">Highway / Exit number </string>
+
+    <!--Type of Emergency Activity-->
+    <string name="help_identity">Who is in need of help?</string>
+    <string name='identity_description'>Anything important to know?</string>
+    <string name='suggestions'>Some suggestions</string>
+    <string name="identity_options">
+        What does the victim look like?
+        When did the incident occur?
+        Entrance instructions?
+        Is the location changing?
+        Do you feel unsafe?</string>
+
+    <!--Types of emergencies-->
+    <string name='card1'>Physically unstable</string>
+    <string name='card2'>Breathing problem</string>
+    <string name='card3'>Traffic accident</string>
+    <string name='card4'>Chest pain</string>
+    <string name='card5'>Social services</string>
+    <string name='card6'>Bleeding</string>
+    <string name='card7'>Assault</string>
+    <string name='card8'>Crime active</string>
+
+    <!--Optional Emergency Details Activity-->
+    <string name="emergency_details_header">Can you describe your emergency?</string>
+    <string name="none">None of the above</string>
+    <string name="confirm">Confirm</string>
+
+    <!--Summary Activity-->
+    <string name="title_activity_summary">Report Summary</string>
+    <string name="summary_review">Review and Text 911</string>
+    <string name="summary_subtitle"> Here\'s a summary of your details. You can edit the details below.</string>
+    <string name="confirm_details">Confirm Details</string>
+
+    <string name="emergency_services_requested">Emergency Services Requested</string>
+
+
+    <string name="test">This\n is a \n multi lined string \n test </string>
+</resources>
